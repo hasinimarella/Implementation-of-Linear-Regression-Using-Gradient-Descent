@@ -71,7 +71,7 @@ ii)
 ![OUTPUT](2.3.png)
 
 iii)
-![OUTPUT](3.png)
+![OUTPUT](3.1-1.png)
 
 ## Result:
 Thus the program to implement the linear regression using gradient descent is written and verified using python programming.
